@@ -1,0 +1,35 @@
+#header nav{
+    background-color: rgb(255, 123, 0);
+    text-align: center;
+}
+#header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+#main table tr td{
+    padding-left: 100px;
+}
+#main table tr td{
+    text-align: center;
+    padding-left: 150px;
+}
+#main table tr td button{
+    color: white;
+    background-color: orangered;
+}
+#bottom{
+    text-align: center;
+    background-color:  orangered;
+    width: max-content;
+}
+#bottom p{
+    color: aliceblue;
+    text-align: center;
+}
+#bottom button{
+    color: white;
+    background-color: orangered;
+    /* text-align: center; */
+    align-items: center;
+}
